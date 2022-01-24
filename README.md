@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LoreDrums 
 - 👀 I’m interested in drums, web apps, accessibility, privacy rights and tech policy. 
-- 🌱 I’m currently learning to integrate React hooks with Redux
-- 💞️ I’m looking to collaborate on .. not sure yet to be honest 
+- 🌱 I’m currently learning to integrate React hooks with Redux 
 - 📫 How to reach me loredrums2@gmail.com
 
 <!---
